@@ -16,6 +16,6 @@
     theOdinProject
     MDN web docs_
 
-## Link to the Site
+## Link to Profile
 
 https://emilmilano.github.io/profile
