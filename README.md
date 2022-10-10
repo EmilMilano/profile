@@ -1,18 +1,16 @@
 # Personal Website
 
-    A Personal Website, Made as a practical project to learn about HTML, CSS and JavaScript.
+## A Personal Website, Made as a practical project to learn about **HTML, CSS** and **JavaScript**.
 
-# Currently Working on...
+### Currently Working on...
 
-    HTML
-    Design Planning
+    HTML, Design Planning
 
-# TO DO
+### TO DO
 
-    CSS
-    JavaScript
+    CSS, JavaScript
 
-# Used Material for Learning
+## Used Material for Learning
 
     freeCodeCamp
     theOdinProject
