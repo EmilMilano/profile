@@ -1,5 +1,18 @@
+h1 {
+    border: 1px solid black;
+    box-shadow: 5px 10px black;
+}
 img {
-    width: 200px;
-    height: 300px;
-    border-radius: 45%;
+    width: 15%;
+    height: 30%;
+    background-color: rgba(128, 128, 128, 0.425);
+    border-radius: 48%;
+    box-shadow: 5px 10px black;
+    border: 1px solid black;
+
+}
+a {
+    color: black;
+    background-color: darkgrey;
+    box-shadow: 2px 4px black;
 }
