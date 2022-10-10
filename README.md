@@ -1,4 +1,4 @@
-# Personal Website
+# <p style="text-align: center;">**Personal Website**</p>
 
 ## A Personal Website, Made as a practical project to learn about **HTML, CSS** and **JavaScript**.
 
@@ -15,3 +15,7 @@
     freeCodeCamp
     theOdinProject
     MDN web docs_
+
+## Link to the Site
+
+    https://emilmilano.github.io/site
