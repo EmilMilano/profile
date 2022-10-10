@@ -18,4 +18,4 @@
 
 ## Link to the Site
 
-https://emilmilano.github.io/site
+https://emilmilano.github.io/profile
