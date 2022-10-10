@@ -1,4 +1,4 @@
-# <p style="text-align: center;">**Personal Website**</p>
+# **Personal Website**
 
 ## A Personal Website, Made as a practical project to learn about **HTML, CSS** and **JavaScript**.
 
@@ -18,4 +18,4 @@
 
 ## Link to the Site
 
-    https://emilmilano.github.io/site
+https://emilmilano.github.io/site
